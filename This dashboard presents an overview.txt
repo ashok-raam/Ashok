@@ -1,0 +1,35 @@
+This dashboard presents an overview of university and vocational school admissions in Russia from 2014 to 2023. Here is a detailed breakdown of the different sections:
+
+### **Top Left - Total Number of Students**
+- **Gauge Chart:** The gauge displays the total number of students admitted, which is **5568**, against a potential maximum of **11.14K**.
+  
+### **Top Center - Applications by Degree**
+- **Pie Chart:** Shows the percentage distribution of students by degree type. Each segment represents:
+  - **Bachelor's degree:** 16.67% (0.93K students)
+  - **Master's degree:** 20.83% (1.16K students)
+  - **Mid-Career Professionals:** 20.83% (1.16K students)
+  - **Specialist's degree:** 20.83% (1.16K students)
+  - **Skilled workers and employees:** 20.83% (1.16K students)
+
+### **Top Right - Students by Education Level**
+- **Bar Chart:** Displays the count of students by the education level:
+  - **Higher Education:** Approximately 3K students
+  - **Vocational Education:** Slightly less than 3K students
+  
+### **Bottom Left - Students by Branches of Science**
+- **Bar Chart:** Highlights the number of students across various branches of science:
+  - **Engineering and Technology:** The highest count (around 2.2K students)
+  - **Social Sciences, Arts and Culture, Mathematical and Natural Sciences:** Around 0.7K, 0.6K, and 0.6K students, respectively
+  - **Healthcare and Medicine, Humanities:** Approximately 0.5K each
+  - **Other fields (e.g., Agriculture, Military Science):** Much lower counts (below 0.2K)
+  
+### **Bottom Right - Students by Degree**
+- **Pie Chart (again):** A visual repetition of the percentage split of students by degree type (same data as the top center).
+
+### **Overall Themes**
+- The data is categorized by:
+  1. **Education level** (Higher vs Vocational)
+  2. **Degree type** (Bachelor’s, Master’s, etc.)
+  3. **Branches of Science**
+  
+This dashboard provides insights into enrollment trends, popular fields of study, and the division of students across different degrees and education levels.
